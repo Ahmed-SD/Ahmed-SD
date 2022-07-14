@@ -8,8 +8,6 @@
 - 💬 Ask me about **node, vue and ionic**
 
 - 📫 How to reach me **ahmedadam.abduallah@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
